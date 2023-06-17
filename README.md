@@ -1,5 +1,5 @@
 # Linux-AutoUPNP
-Auto UPNP mapping script when IP is changed.
+Auto UPNP mapping script so that you can mantain the ports (when you are not admin of the router).
 
 To run the script every 3 mins, you can run the following code in terminal:
 
